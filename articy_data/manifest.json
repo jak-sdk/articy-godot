@@ -1,0 +1,67 @@
+{
+  "Settings": {
+    "set_TextFormatter": "",
+    "set_IncludingAssets": "True",
+    "set_IncludedNodes": "Settings, Project, GlobalVariables, ObjectDefinitions, Packages, ScriptMethods, Hierarchy, Assets, Languages",
+    "set_UseScriptSupport": "True",
+    "ExportVersion": "2.0",
+    "RuleSetId": "010000000000010D",
+    "RuleSetName": "Default Export Ruleset (complete Project)"
+  },
+  "Project": {
+    "Name": "articy-godot-demo",
+    "DetailName": "",
+    "Guid": "be489efb-ea9b-4a94-b5c5-4200f4b99622",
+    "TechnicalName": "Articy_Godot_Demo"
+  },
+  "Languages": [
+    {
+      "CultureName": "",
+      "ArticyLanguageId": 127,
+      "LanguageName": null,
+      "IsVoiceOver": false
+    }
+  ],
+  "GlobalVariables": {
+    "FileName": "global_variables.json",
+    "Hash": "M1b/3JU6v0NPotsj9dBYcxJLdEtegyN6GMOkKjgvsZ8="
+  },
+  "ObjectDefinitions": {
+    "Types": {
+      "FileName": "object_definitions.json",
+      "Hash": "tecYSvGuWxKPkof6dglECAQvK5+0LSq4Rx8Qlb+1OnQ="
+    },
+    "Texts": {
+      "FileName": "object_definitions_localization.json",
+      "Hash": "RBNvo1WzZ4oRRq0W9+hknpT7T8If536DEMBg9hyq/4o="
+    }
+  },
+  "Packages": [
+    {
+      "Name": "All objects",
+      "Id": "0x0100000000000110",
+      "Description": "Exports all objects & types of the project",
+      "IsDefaultPackage": true,
+      "IsIncluded": true,
+      "ScriptFragmentHash": "r1Vw9aGBC3r3jK9LxwpmDw31HkK6+R1N5bIyjeDoPfw=",
+      "Files": {
+        "Objects": {
+          "FileName": "package_0100000000000110_objects.json",
+          "Hash": "IwKudVAv3TdYCeH5X/tV0I44vE/czMYWV45LpEghfa0="
+        },
+        "Texts": {
+          "FileName": "package_0100000000000110_localization.json",
+          "Hash": "b+Xgph742wwihMS22WQztljSR0S4Sow1s9d/pfZfo6o="
+        }
+      }
+    }
+  ],
+  "ScriptMethods": {
+    "FileName": "script_methods.json",
+    "Hash": "+Hc7CrqwO4HgaJLz4pXA58UKo/0PYZLVIzK1n03xTOY="
+  },
+  "Hierarchy": {
+    "FileName": "hierarchy.json",
+    "Hash": "BjTSTkqCyJEMmkCDFAJoczCD87JwgZXYkYhS3d9kw2s="
+  }
+}

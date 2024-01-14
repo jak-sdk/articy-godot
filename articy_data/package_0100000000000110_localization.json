@@ -1,0 +1,68 @@
+{
+  "Dlg_4CBF7DA7.DisplayName": {
+    "": {
+      "Text": "Conversation 1"
+    },
+    "Context": "Flow/Conversation 1"
+  },
+  "DFr_968A6FE0.Text": {
+    "": {
+      "Text": "Hi"
+    },
+    "Context": "Flow/Conversation 1/One: \"Hi\""
+  },
+  "DFr_7461ABB8.Text": {
+    "": {
+      "Text": "Hello"
+    },
+    "Context": "Flow/Conversation 1/Two: \"Hello\""
+  },
+  "DFr_0B64215F.Text": {
+    "": {
+      "Text": "How are you?"
+    },
+    "Context": "Flow/Conversation 1/One: \"How are you?\""
+  },
+  "DFr_02E32A6F.Text": {
+    "": {
+      "Text": "Rubbish!"
+    },
+    "Context": "Flow/Conversation 1/Two: \"Rubbish!\""
+  },
+  "DFr_EAC84D1B.Text": {
+    "": {
+      "Text": "Excellent!"
+    },
+    "Context": "Flow/Conversation 1/Two: \"Excellent!\""
+  },
+  "DFr_6D71640D.Text": {
+    "": {
+      "Text": "Glad to hear!"
+    },
+    "Context": "Flow/Conversation 1/One: \"Glad to hear!\""
+  },
+  "DFr_083C6045.Text": {
+    "": {
+      "Text": "Oh noes!"
+    },
+    "Context": "Flow/Conversation 1/One: \"Oh noes!\""
+  },
+  "DFr_878ACC0B.Text": {
+    "": {
+      "Text": "Must dash, tata"
+    },
+    "Context": "Flow/Conversation 1/Two: \"Must dash, tata\""
+  },
+  "Ntt_CD7FEB08.DisplayName": {
+    "": {
+      "Text": "One"
+    },
+    "Context": "Entities/One"
+  },
+  "Ntt_E063BD14.DisplayName": {
+    "": {
+      "Text": "Two"
+    },
+    "Context": "Entities/Two"
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "Objects": [
+    {
+      "Type": "Dialogue",
+      "Properties": {
+        "TechnicalName": "Dlg_4CBF7DA7",
+        "Id": "0x010000000000011D",
+        "Parent": "0x0300000043CE43F7",
+        "Attachments": [],
+        "DisplayName": "Dlg_4CBF7DA7.DisplayName",
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "Mode": "FromAsset",
+          "Asset": "0x0000000000000000"
+        },
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 467.0,
+          "y": 350.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 291.0,
+          "h": 200.0
+        },
+        "ShortId": 1287617959,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000120",
+            "Owner": "0x010000000000011D",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x0100000000000126",
+                "Target": "0x0100000000000123"
+              }
+            ]
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000121",
+            "Owner": "0x010000000000011D"
+          }
+        ]
+      }
+    },
+    {
+      "Type": "DialogueFragment",
+      "Properties": {
+        "TechnicalName": "DFr_968A6FE0",
+        "Id": "0x0100000000000123",
+        "Parent": "0x010000000000011D",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000012A",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_968A6FE0.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 375.0,
+          "y": 425.0
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 2525655008,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000126",
+            "Owner": "0x0100000000000123"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000127",
+            "Owner": "0x0100000000000123",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x0100000000000135",
+                "Target": "0x0100000000000132"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "DialogueFragment",
+      "Properties": {
+        "TechnicalName": "DFr_7461ABB8",
+        "Id": "0x0100000000000132",
+        "Parent": "0x010000000000011D",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000012E",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_7461ABB8.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 750.0,
+          "y": 425.0
+        },
+        "ZIndex": 2.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 1952558008,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000135",
+            "Owner": "0x0100000000000132"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000136",
+            "Owner": "0x0100000000000132",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000000013C",
+                "Target": "0x0100000000000139"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "DialogueFragment",
+      "Properties": {
+        "TechnicalName": "DFr_0B64215F",
+        "Id": "0x0100000000000139",
+        "Parent": "0x010000000000011D",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000012A",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_0B64215F.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 1075.0,
+          "y": 425.0
+        },
+        "ZIndex": 4.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 191111519,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000000013C",
+            "Owner": "0x0100000000000139"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000000013D",
+            "Owner": "0x0100000000000139",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x0100000000000143",
+                "Target": "0x0100000000000140"
+              },
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000000014A",
+                "Target": "0x0100000000000147"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "DialogueFragment",
+      "Properties": {
+        "TechnicalName": "DFr_02E32A6F",
+        "Id": "0x0100000000000140",
+        "Parent": "0x010000000000011D",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000012E",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_02E32A6F.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 1400.0,
+          "y": 575.0
+        },
+        "ZIndex": 6.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 48441967,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000143",
+            "Owner": "0x0100000000000140"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000144",
+            "Owner": "0x0100000000000140",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x010000000000015F",
+                "Target": "0x010000000000015C"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "DialogueFragment",
+      "Properties": {
+        "TechnicalName": "DFr_EAC84D1B",
+        "Id": "0x0100000000000147",
+        "Parent": "0x010000000000011D",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000012E",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_EAC84D1B.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 1400.0,
+          "y": 350.0
+        },
+        "ZIndex": 8.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 3938995483,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000000014A",
+            "Owner": "0x0100000000000147"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000000014B",
+            "Owner": "0x0100000000000147",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x0100000000000158",
+                "Target": "0x0100000000000155"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "DialogueFragment",
+      "Properties": {
+        "TechnicalName": "DFr_6D71640D",
+        "Id": "0x0100000000000155",
+        "Parent": "0x010000000000011D",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000012A",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_6D71640D.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 1825.0,
+          "y": 350.0
+        },
+        "ZIndex": 10.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 1836147725,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000158",
+            "Owner": "0x0100000000000155"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000159",
+            "Owner": "0x0100000000000155",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x0100000000000166",
+                "Target": "0x0100000000000163"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "DialogueFragment",
+      "Properties": {
+        "TechnicalName": "DFr_083C6045",
+        "Id": "0x010000000000015C",
+        "Parent": "0x010000000000011D",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000012A",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_083C6045.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 1825.0,
+          "y": 575.0
+        },
+        "ZIndex": 12.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 138174533,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x010000000000015F",
+            "Owner": "0x010000000000015C"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000160",
+            "Owner": "0x010000000000015C",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x0100000000000166",
+                "Target": "0x0100000000000163"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "DialogueFragment",
+      "Properties": {
+        "TechnicalName": "DFr_878ACC0B",
+        "Id": "0x0100000000000163",
+        "Parent": "0x010000000000011D",
+        "MenuText": "",
+        "StageDirections": "",
+        "Speaker": "0x010000000000012E",
+        "SplitHeight": 64.0,
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "DFr_878ACC0B.Text",
+        "ExternalId": "",
+        "Position": {
+          "x": 2200.0,
+          "y": 450.0
+        },
+        "ZIndex": 14.0,
+        "Size": {
+          "w": 225.0,
+          "h": 200.0
+        },
+        "ShortId": 2274020363,
+        "InputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000166",
+            "Owner": "0x0100000000000163"
+          }
+        ],
+        "OutputPins": [
+          {
+            "Text": "",
+            "Id": "0x0100000000000167",
+            "Owner": "0x0100000000000163",
+            "Connections": [
+              {
+                "Color": {
+                  "a": 1.0,
+                  "r": 0.784313738,
+                  "g": 0.8862745,
+                  "b": 0.905882359
+                },
+                "Label": "",
+                "TargetPin": "0x0100000000000121",
+                "Target": "0x010000000000011D"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Type": "DefaultMainCharacterTemplate",
+      "Properties": {
+        "TechnicalName": "Ntt_CD7FEB08",
+        "Id": "0x010000000000012A",
+        "Parent": "0x03000000AC61A2B3",
+        "Attachments": [],
+        "DisplayName": "Ntt_CD7FEB08.DisplayName",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 420.5,
+          "y": 110.5
+        },
+        "ZIndex": 0.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "Mode": "FromAsset",
+          "Asset": "0x0000000000000000"
+        },
+        "ShortId": 3447712520
+      },
+      "Template": {
+        "DefaultExtendedCharacterFeature": {
+          "Motivation": "",
+          "InnerConflict": "",
+          "Skills": "",
+          "Fears": "",
+          "Habits": "",
+          "FurtherDetails": ""
+        },
+        "DefaultBasicCharacterFeature": {
+          "Age": null,
+          "Species": "",
+          "BornIn": "",
+          "Sex": null,
+          "Occupation": "",
+          "Accent": "",
+          "Personality": "",
+          "Appearance": ""
+        }
+      }
+    },
+    {
+      "Type": "Entity",
+      "Properties": {
+        "TechnicalName": "Ntt_E063BD14",
+        "Id": "0x010000000000012E",
+        "Parent": "0x03000000AC61A2B3",
+        "Attachments": [],
+        "DisplayName": "Ntt_E063BD14.DisplayName",
+        "Color": {
+          "r": 0.784313738,
+          "g": 0.8862745,
+          "b": 0.905882359
+        },
+        "Text": "",
+        "ExternalId": "",
+        "Position": {
+          "x": 20.0,
+          "y": 20.0
+        },
+        "ZIndex": 1.0,
+        "Size": {
+          "w": 256.0,
+          "h": 196.0
+        },
+        "PreviewImage": {
+          "ViewBox": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 0.0,
+            "h": 0.0
+          },
+          "Mode": "FromAsset",
+          "Asset": "0x0000000000000000"
+        },
+        "ShortId": 3764632852
+      }
+    },
+    {
+      "Type": "UserFolder",
+      "Properties": {
+        "TechnicalName": "Ufo_D2439360",
+        "Id": "0x0100000000000113",
+        "Parent": "0x030000004C3DAF54",
+        "DisplayName": "Images",
+        "ExternalId": "",
+        "ShortId": 3527644000
+      }
+    },
+    {
+      "Type": "UserFolder",
+      "Properties": {
+        "TechnicalName": "Ufo_4BBB3174",
+        "Id": "0x0100000000000115",
+        "Parent": "0x030000004C3DAF54",
+        "DisplayName": "Videos",
+        "ExternalId": "",
+        "ShortId": 1270559092
+      }
+    },
+    {
+      "Type": "UserFolder",
+      "Properties": {
+        "TechnicalName": "Ufo_975BF6DF",
+        "Id": "0x0100000000000117",
+        "Parent": "0x030000004C3DAF54",
+        "DisplayName": "Audio",
+        "ExternalId": "",
+        "ShortId": 2539386591
+      }
+    },
+    {
+      "Type": "UserFolder",
+      "Properties": {
+        "TechnicalName": "Ufo_44E982E4",
+        "Id": "0x0100000000000119",
+        "Parent": "0x030000004C3DAF54",
+        "DisplayName": "Documents",
+        "ExternalId": "",
+        "ShortId": 1156154084
+      }
+    },
+    {
+      "Type": "UserFolder",
+      "Properties": {
+        "TechnicalName": "Ufo_897936F3",
+        "Id": "0x010000000000011B",
+        "Parent": "0x030000004C3DAF54",
+        "DisplayName": "Miscellaneous",
+        "ExternalId": "",
+        "ShortId": 2306422515
+      }
+    }
+  ]
+}
