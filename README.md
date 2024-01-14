@@ -2,8 +2,8 @@
 This is an attempt to parse and integrate the JSON export format from Articy into Godot
 
 # How To Use This
-1. Copy the articy/ folder into your godot project.
-2. Copy the autoload/ folder into your Godot project
+1. Copy the `articy/` folder into your Godot project.
+2. Copy the `autoload/` folder into your Godot project
 3. In Godot -> Project Setting -> Autoload, add the `autoload/articy.gd` as `Articy`
 4. In `autoload/articy.gd`, set `ARTICY_DIR` to where your export `.json` files are.
 5. Now in your Godot scripts you can interact with the loaded Articy project like so:
